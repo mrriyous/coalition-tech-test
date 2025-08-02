@@ -27,7 +27,7 @@ A simple product management system built with Laravel, Bootstrap, and AJAX.
 
 ## Tech Stack
 
-- Laravel 11
+- Laravel 12
 - Bootstrap 5.3.2
 - JavaScript/AJAX
 - JSON storage
